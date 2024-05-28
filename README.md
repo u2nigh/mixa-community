@@ -1,9 +1,12 @@
 ## Mixa Community
 
-## 1
+## Spring boot
 https://spring.io/guides/
 
 https://spring.io/guides/gs/serving-web-content
 
-## 2
+## Git
 https://git-scm.com/download/
+
+## Github OAuth app
+https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/creating-an-oauth-app
